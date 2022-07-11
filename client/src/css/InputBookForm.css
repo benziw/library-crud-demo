@@ -1,0 +1,23 @@
+.InputBookForm{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: 10px;
+
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+}
+
+.textFields {
+  display: flex;
+  justify-content: space-around;
+
+  width: 600px;
+  margin-bottom: 10px;
+}
+
+.submitButton{
+  width : 100px;
+}
